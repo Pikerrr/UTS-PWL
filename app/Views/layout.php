@@ -11,7 +11,7 @@ if(uri_string() != ""){
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-  <title><?= $hlm ?> - Toko</title>
+  <title><?= $hlm ?> </title>
 
   <!-- CSS -->
   <link href="<?= base_url()?>NiceAdmin/assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
